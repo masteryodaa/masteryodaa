@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=masteryodaa)](https://github.com/masteryodaa/github-readme-stats)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=masteryodaa&langs_count=5&theme=tokyonight)]()
+
