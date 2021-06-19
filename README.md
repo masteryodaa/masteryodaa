@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/ravis2114/newTwitter/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ravis2114/newTwitter" />
-</a>
+[![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=masteryodaa)](https://github.com/masteryodaa/github-readme-stats)
 
-Made with [contributors-img](https://contrib.rocks).
