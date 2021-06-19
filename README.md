@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href = "https://github.com/ravis2114/newTwitter/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = ravis2114/newTwitter"/>
+<a href="https://github.com/ravis2114/newTwitter/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ravis2114/newTwitter" />
 </a>
 
 Made with [contributors-img](https://contrib.rocks).
