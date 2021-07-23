@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=masteryodaa)]()
 
-**currently developing newTwitter webapp. checkout the pinned repo**
