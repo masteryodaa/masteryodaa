@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 [![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=masteryodaa)](https://github.com/masteryodaa/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masteryodaa)](https://git.io/streak-stats)
+
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=masteryodaa)]()
 
